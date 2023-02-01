@@ -1,4 +1,4 @@
-// Solidity is a high-level programming language used to implement smart contracts 
+// Solidity is a high-level programming language used to implement smart contracts.
 // A smart contract is a self-executing contract in which the terms of agreement between the parties, i.e. buyer and seller, are directly written in lines of code and stored on the blockchain, where they are automatically executed when the predetermined conditions are met.
 
 // SPDX-License-Identifier: UNLICENSED 
